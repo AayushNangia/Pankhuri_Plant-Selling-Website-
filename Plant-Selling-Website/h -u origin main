@@ -1,0 +1,18 @@
+[33m115842d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Initial commit
+ README.md                                         |   8 [32m+++[m[31m---[m
+ backend/src/controllers/smtp/emailController.js   |  26 [32m+++++++++[m[31m----------[m
+ backend/src/model/delivery.js                     |   2 [32m+[m[31m-[m
+ backend/src/model/nurseryModel/nursery.js         |   2 [32m+[m[31m-[m
+ backend/src/views/confirmAccountEmailTemplate.ejs |   2 [32m+[m[31m-[m
+ backend/src/views/thankyouForContactingUs.ejs     |   4 [32m+[m[31m--[m
+ backend/src/views/thankyouForSubscribingUs.ejs    |   2 [32m+[m[31m-[m
+ backend/src/views/youHaveNewSubscriber.ejs        |   2 [32m+[m[31m-[m
+ frontend/src.zip                                  | Bin [31m0[m -> [32m189382[m bytes
+ frontend/src/features/common/Footer.js            |  30 [32m+++++++++++[m[31m-----------[m
+ frontend/src/features/common/Headers.js           |   4 [32m+[m[31m--[m
+ frontend/src/features/common/Navigation.js        |   2 [32m+[m[31m-[m
+ frontend/src/pages/ContactUsPage.js               |  10 [32m++++[m[31m----[m
+ frontend/src/pages/FAQPage.js                     |  22 [32m++++++++[m[31m--------[m
+ frontend/src/pages/HelpPage.js                    |  12 [32m++++[m[31m-----[m
+ frontend/src/pages/PrivacyPolicyPage.js           |   2 [32m+[m[31m-[m
+ 16 files changed, 65 insertions(+), 65 deletions(-)
